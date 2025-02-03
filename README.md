@@ -10,7 +10,7 @@
 
 #   
 
-buy_me_a_coffee: 13Koalas
+
 ![GitHub License](https://img.shields.io/github/license/coderOwk/Just-For-My-Testing?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/coderOwk/Just-For-My-Testing?style=for-the-badge&logo=c&logoColor=green&labelColor=white&color=red)
 
